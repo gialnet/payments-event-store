@@ -1,2 +1,2 @@
 # payments-event-store
-Desing of event store solution for Microsevices
+Design of event store solution for Microsevices
